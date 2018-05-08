@@ -1,1 +1,2 @@
-# ee144_robotics
+# EE144 Robotics
+Contains lab work for the course.
